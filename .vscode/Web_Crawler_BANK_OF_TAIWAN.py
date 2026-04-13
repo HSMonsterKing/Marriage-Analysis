@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from tkinter import messagebox as msg
 import pyodbc
-
+#爬蟲:抓取臺灣銀行美金匯率並存入Azure SQL
 
 ww = tk.Tk()
 ww.title("我的Python視窗")
